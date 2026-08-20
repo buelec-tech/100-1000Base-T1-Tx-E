@@ -2,6 +2,13 @@
 
 The **100-1000Base-T1-Tx-E Series** provides high-performance, low-cost automotive Ethernet media conversion. Based on the **Marvell 88Q2112** (T1 PHY) and **Realtek RTL8211FI** (TX PHY), these devices enable seamless bi-directional communication between standard RJ45 Ethernet and automotive single-pair Ethernet.
 
+## Supported Automotive Ethernet Standards
+
+| IEEE Standard | Automotive Ethernet Mode | Support |
+| :--- | :--- | :--- |
+| IEEE 802.3bw | 100BASE-T1 | Supported |
+| IEEE 802.3bp | 1000BASE-T1 | Supported |
+
 ---
 
 ## Product Selection Guide
